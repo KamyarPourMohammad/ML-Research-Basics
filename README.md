@@ -27,7 +27,7 @@ First, I tried to gain a foundational overview of the key elements required for 
 
 In the second phase, after reviewing the academic landscape, I selected my main paper. The title of my chosen paper is:
 
-**"Explanations of Classifiers Enhance Medical Image Segmentation via End-to-End Pre-training."**
+[*"Explanations of Classifiers Enhance Medical Image Segmentation via End-to-End Pre-training."*](https://arxiv.org/abs/2401.08469)
 
 This paper proposes a novel method for generating pseudo-segmentation labels from classification explanations and then using them for segmentation pre-training. The methodology is outlined below:
 
